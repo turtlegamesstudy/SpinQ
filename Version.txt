@@ -1,3 +1,3 @@
 1.2
 https://www.mediafire.com/file/hm8jqyswnwvweqc/SpinQ.rar/file
-Se han corregido varios errores y mejorado el rendimiento, tambien se ha re acomodado la UI.
+Se han corregido varios errores y mejorado el rendimiento de la app, tambien se ha re acomodado la UI.
