@@ -1,2 +1,3 @@
-1.1
-https://github.com/turtlegamesstudy/SpinQ/releases/download/v1.1/app.apk
+1.2
+dvsedv
+Se han corregido varios errores y mejorado el rendimiento.
