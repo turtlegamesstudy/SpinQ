@@ -1,3 +1,3 @@
-1.1
-https://www.mediafire.com/file/hm8jqyswnwvweqc/SpinQ.rar/file
-tambien se ha re acomodado la UI, se ha añadido nuevas funciones.
+1.2
+https://www.mediafire.com/file/le4au0d3tgle4f2/SpinQ_1.2.zip/file
+Version 1.2, se agrego un menu de opciones y se añadieron sonidos.
