@@ -1,1 +1,2 @@
-1.0
+1.1
+https://github.com/turtlegamesstudy/SpinQ/releases/download/v1.1/app.apk
